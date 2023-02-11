@@ -1,0 +1,2 @@
+servicekey = "dtbWOdJ%2FCz5HE0DGLU%2BCRPe7pOW0NIQBUcGEqsHZaTRiYCI%2F5%2BzugwzQjcvuId7NPdg6rUiW%2Bft3fm7yqyD4pw%3D%3D"
+url = "http://openapi.data.go.kr/openapi/service/rest/Covid19/getCovid19InfStateJson"
